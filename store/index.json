@@ -604,5 +604,15 @@
        "url": "https://s3.amazonaws.com/crazygames-unblocked/game/crazy-pixel-apocalypse",
        "desc": "a way to have fun",
        "feat": "a nice touch to gameing"
-     }
+     },
+     {
+    "name": "MASSIVE STICKMAN",
+    "icon": "https://s3.amazonaws.com/crazygames-unblocked/game/crazy-pixel-apocalypse",
+    "type": "game",
+    "data": {
+      "type": "IFrame",
+      "url": "https://xotic-games-inc.github.io/school/io.html",
+      "gallery": [
+        ""
+      ],
 }]
